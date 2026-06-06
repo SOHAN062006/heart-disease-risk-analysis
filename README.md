@@ -27,7 +27,10 @@ This project analyzes heart disease risk factors using a comprehensive dataset f
 7. **Target Distribution** - Overall disease prevalence in dataset
 
 ## 💡 Key Insights
-- [Your insights will go here after running the analysis]
+-  Patients aged 50-65 show the highest heart disease prevalence
+- Males have significantly higher risk compared to females
+- Asymptomatic chest pain type is the strongest predictor of disease
+- Lower maximum heart rate (thalach) correlates strongly with disease presence
 - Risk factors vary significantly by age and gender
 - Cholesterol levels show strong correlation with disease presence
 - Chest pain type is a strong predictor of heart disease
@@ -91,7 +94,7 @@ heart-disease-risk-analysis/
 ```
 
 ## 👨‍💻 Author
-[Your Name]
+sakinala sohan
 
 ## 📜 License
 MIT License
